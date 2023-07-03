@@ -2,6 +2,7 @@ import { createSlice, createAsyncThunk, PayloadAction } from "@reduxjs/toolkit";
 import axios from "axios";
 import User from "../../interfaces/User";
 import {authHandler} from "../../apis/handler/auth/index";
+import {POST} from "../../apis/utils/Requests";
 
 export interface UserState {
   data: Array<User>;
