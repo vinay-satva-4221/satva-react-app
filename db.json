@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ayush",
+      "age": 22,
+      "position": "Junior Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Nirav",
+      "age": 25,
+      "position": "Senior Software Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Vinay",
+      "age": 23,
+      "position": "Senior Software Engineer"
+    },
+    {
+      "id": 4,
+      "name": "Shreyansh",
+      "age": 22,
+      "position": "Senior Software Engineer"
+    },
+    {
+      "id": 6,
+      "name": "New User",
+      "age": 25,
+      "position": "Developer"
+    }
+  ]
+}
